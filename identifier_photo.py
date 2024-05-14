@@ -1,8 +1,7 @@
 # Lucas Ying
 # 5/8/24
-# THIS IS NOT PART OF MY CODE SUBMISSION
 # This was my stretch goal I was working on to get the photo of the image to test from the camera 
-# and it would take a screnshot of the camera and test that image, however I did not finish this part fully
+# and it would take a screnshot of the camera and test that image. The accuracy of this version is low but it works.
 
 
 import mediapipe as mp
